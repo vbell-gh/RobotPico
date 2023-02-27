@@ -8,7 +8,7 @@ const int motorTwoInput2 = 4; //input  four of the L293
 const int pwmMotorOne = 28; // PWM pin for dc motor one
 const int pwmMotorTwo = 2; // PWM pin dc motor two
 
-const int voltageRegUlstra = 29; // PIN for the voltage regulator for the ulstrasonic sensor
+const int voltageRegUlstra = 29; // PIN for the voltage regulator for the ulstrasonic sensor not in use at present
 
 long duration;
 long distanceInCm;
